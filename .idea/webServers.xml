@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3cf66e93-41af-4c2f-98d4-fbb44ffe0e2a" name="asd" url="http://10.10.1.21">
+        <fileTransfer host="10.10.1.21" port="22" rootFolder="/root/python_app" accessType="SFTP" password="df9fdfdedfcddfc8dff4dff3dfe2dfe4" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
